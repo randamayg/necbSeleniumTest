@@ -1,0 +1,6 @@
+
+t
+java:S1104"RMake driver a static final constant or non-public and provide accessors if needed.(ÔèË©úÿÿÿÿ8™³‰•/
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÉÙ÷T
+‚
+java:S1488"eImmediately return this expression instead of assigning it to the temporary variable "numberOfVotes".(ƒâ©€8ÉÃüŠ•/
